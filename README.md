@@ -1,7 +1,7 @@
 CryptoPriceAlert - Cryptocurrency price monitor
 ================
 
-![CryptoPriceAlert](http://immortaltools.com/img/CryptoPriceAlert.png "Preview")
+![CryptoPriceAlert](https://www.immortaltools.com/cryptopricealert/img/cryptopricealertfancy.jpg "Preview")
 
 This is a windows program for cryptocurrency price alerts. First release is simple and only do price updates for DogeCoin.
 
